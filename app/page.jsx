@@ -27,7 +27,7 @@ import {
 import "./globals.css";
 
 const EMAIL = "hola@dastudio.dev";
-const WHATSAPP = "+521234567890";
+const WHATSAPP = "+51904703590";
 
 const services = [
   {
